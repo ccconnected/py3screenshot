@@ -4,6 +4,6 @@
 
 **Preview:**
 
-![Preview GIF](https://imgur.com/a/aU2DqQo)
+![Preview GIF](https://i.imgur.com/Qk5hoQY.gif)
 
 
