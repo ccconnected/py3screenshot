@@ -3,7 +3,7 @@
 **IMPORTANT:** Before running the script, [install wxPython](https://wiki.wxpython.org/How%20to%20install%20wxPython) on the system.
 
 **Preview:**
+
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
-# py3screenshot
